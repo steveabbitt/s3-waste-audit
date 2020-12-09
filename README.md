@@ -13,7 +13,7 @@ Newest Object: 2020-10-22 got/the/goldenTicket.txt
 
 ## Requirements
 
-aws-cli fully configured and working. https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
+**aws-cli** fully configured and working. https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 
 ## Current caveats
 
